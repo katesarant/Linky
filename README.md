@@ -12,7 +12,6 @@ Linky is a lightweight web project for bringing useful links and online content 
   <a href="https://www.linkedin.com/in/kate-sarant/">LinkedIn</a>
 </p>
 
-> **Project status:** In development. The GitHub Pages URL is the intended deployment address and will become available after Pages is enabled and the site is published.
 
 ## ✨ Technology Stack
 
@@ -38,22 +37,6 @@ Linky is a lightweight web project for bringing useful links and online content 
 3. Open `index.html` in your browser.
 
 No build step is required for a plain static HTML setup.
-
-## 🌐 Deployment with GitHub Pages
-
-The project is intended to be published with GitHub Pages.
-
-1. Open the repository's [Settings](https://github.com/katesarant/Linky/settings/pages).
-2. Go to **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and the `/(root)` folder.
-5. Save your settings.
-
-The expected website address is:
-
-**[https://katesarant.github.io/Linky/](https://katesarant.github.io/Linky/)**
-
-GitHub Pages requires an `index.html` file in the selected publishing folder.
 
 ## 📁 Project Structure
 
