@@ -4,6 +4,8 @@
 
 Linky is a lightweight web project for bringing useful links and online content together in one place. The project is being developed with a simple, responsive front-end approach.
 
+I also explore **AI-assisted development (vibe coding)** with tools such as [Lovable](https://lovable.dev/) and [Emergent](https://emergent.sh/) to prototype ideas and build web applications.
+
 <a href="https://katesarant.github.io/Linky/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_View_Live_Demo-Linky-0d6efd?style=for-the-badge" alt="View Linky Live Demo">
 </a>
