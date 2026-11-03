@@ -4,13 +4,9 @@
 
 Linky is a lightweight web project for bringing useful links and online content together in one place. The project is being developed with a simple, responsive front-end approach.
 
-<p align="center">
-  <a href="https://github.com/katesarant/Linky">GitHub Repository</a>
-  ·
-  <a href="https://katesarant.github.io/Linky/">GitHub Pages</a>
-  ·
-  <a href="https://www.linkedin.com/in/kate-sarant/">LinkedIn</a>
-</p>
+<a href="https://katesarant.github.io/Linky/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_View_Live_Demo-Linky-0d6efd?style=for-the-badge" alt="View Linky Live Demo">
+</a>
 
 
 ## ✨ Technology Stack
@@ -23,20 +19,6 @@ Linky is a lightweight web project for bringing useful links and online content 
 | [Bootswatch](https://bootswatch.com/) | Ready-to-use Bootstrap themes | [Themes](https://bootswatch.com/) |
 | [GitHub Pages](https://pages.github.com/) | Static website hosting | [Documentation](https://docs.github.com/en/pages) |
 
-## 🚀 Getting Started
-
-### Run locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/katesarant/Linky.git
-   ```
-
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
-No build step is required for a plain static HTML setup.
 
 ## 📁 Project Structure
 
